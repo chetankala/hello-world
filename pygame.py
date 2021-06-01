@@ -31,3 +31,4 @@ def redraw_game_window():
 	global hangmanPics
 	global limbs 
 	win.fill(GREEN)
+	
